@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-06-19T03:34:47-04:00",
+  "tz": "America/New_York",
+  "locale": "en",
+  "platforms": {
+    "instagram": {
+      "profile": "MitraB2C",
+      "track": "b2c",
+      "active_themes": [
+        {
+          "category": "beliefs",
+          "name": "B2C Beliefs",
+          "track": "b2c",
+          "slots_per_week": 2,
+          "weight": 0.5,
+          "representative": {
+            "post_id": "belief_007",
+            "image": "https://cdn.jsdelivr.net/gh/georgecv-ai/mitra-social-assets@master/posts/belief_007.png",
+            "caption_excerpt": "What if studying felt less like a chore and more like texting a brilliant friend? That's Mitra: real learning through real conversation, on…"
+          }
+        },
+        {
+          "category": "pain_posts",
+          "name": "B2C Pain Posts",
+          "track": "b2c",
+          "slots_per_week": 1,
+          "weight": 0.25,
+          "representative": {
+            "post_id": "pain_008",
+            "image": "https://cdn.jsdelivr.net/gh/georgecv-ai/mitra-social-assets@master/posts/pain_008.png",
+            "caption_excerpt": "“Just try harder” usually misses the point, because the problem isn't effort and the response is often more resistance. When a kid's head…"
+          }
+        },
+        {
+          "category": "feature_spotlights",
+          "name": "B2C Feature Spotlights",
+          "track": "b2c",
+          "slots_per_week": 1,
+          "weight": 0.25,
+          "representative": {
+            "post_id": "feat_dashboard",
+            "image": "https://cdn.jsdelivr.net/gh/georgecv-ai/mitra-social-assets@master/posts/feat_dashboard.png",
+            "caption_excerpt": "You shouldn't have to read over their shoulder to know it's working. Mitra gives you a real dashboard: sessions, time on task, what got…"
+          }
+        }
+      ]
+    }
+  }
+}
